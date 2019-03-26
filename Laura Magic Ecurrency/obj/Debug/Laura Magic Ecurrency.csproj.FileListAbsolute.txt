@@ -1,0 +1,15 @@
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency\Laura Magic Ecurrency\bin\Debug\Laura Magic Ecurrency.exe.config
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency\Laura Magic Ecurrency\bin\Debug\Laura Magic Ecurrency.exe
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency\Laura Magic Ecurrency\bin\Debug\Laura Magic Ecurrency.pdb
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency\Laura Magic Ecurrency\obj\Debug\Laura Magic Ecurrency.csprojAssemblyReference.cache
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency\Laura Magic Ecurrency\obj\Debug\MainWindow.g.cs
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency\Laura Magic Ecurrency\obj\Debug\App.g.cs
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency\Laura Magic Ecurrency\obj\Debug\Laura Magic Ecurrency_MarkupCompile.cache
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency\Laura Magic Ecurrency\obj\Debug\Laura Magic Ecurrency_MarkupCompile.lref
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency\Laura Magic Ecurrency\obj\Debug\MainWindow.baml
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency\Laura Magic Ecurrency\obj\Debug\Laura Magic Ecurrency.g.resources
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency\Laura Magic Ecurrency\obj\Debug\Laura_Magic_Ecurrency.Properties.Resources.resources
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency\Laura Magic Ecurrency\obj\Debug\Laura Magic Ecurrency.csproj.GenerateResource.cache
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency\Laura Magic Ecurrency\obj\Debug\Laura Magic Ecurrency.csproj.CoreCompileInputs.cache
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency\Laura Magic Ecurrency\obj\Debug\Laura Magic Ecurrency.exe
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency\Laura Magic Ecurrency\obj\Debug\Laura Magic Ecurrency.pdb
